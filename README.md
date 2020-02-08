@@ -14,7 +14,7 @@ This is a simple implementation bookstore with python using tkinter and mysql.
 
 ## How to run
 
-Before running make sure you are having python installed in your computer.Please make sure you have tkinter installed in your pc,if not please visit to site and install the library.If you have anaconda installed in your computer then you can run this program by simply sctivating conda and following the procedure.First navigate to the directory where this ```s.py ``` file stored and then run the follwoing commands in terminal.
+Before running make sure you are having python installed in your computer.Please make sure you have tkinter installed in your pc,if not please visit to site and install the library.If you have anaconda installed in your computer then you can run this program by simply sctivating conda and following the procedure.First navigate to the directory where this ```s.py ``` file stored and then run the following commands in terminal.
 
 ```#Python and tkinter should be installed,Run the following in terminal--
 python s.py
