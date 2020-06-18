@@ -2,15 +2,15 @@
 
 <p align="center">
 <img style="padding:10px;" src="https://img.shields.io/badge/Open%20Source-💕%20-9cf?style=for-the-badge"><br>
-<img style="padding:10px;" src="https://img.shields.io/github/contributors/ask2sm/SMLib?style=flat-square">
-<img style="padding:10px;" src="https://img.shields.io/github/forks/ask2sm/SMLib?label=Forks&style=flat-square">
-<img style="padding:10px;" src="https://img.shields.io/github/stars/ask2sm/SMLib?style=flat-square">
-<img style="padding:10px;" src="https://img.shields.io/github/languages/count/ask2sm/SMLib?style=flat-square">
-<img style="padding:10px;" src="https://img.shields.io/github/license/ask2sm/SMLib?style=flat-square">
+<img style="padding:10px;" src="https://img.shields.io/github/contributors/souravmondaldev/SMLib?style=flat-square">
+<img style="padding:10px;" src="https://img.shields.io/github/forks/souravmondaldev/SMLib?label=Forks&style=flat-square">
+<img style="padding:10px;" src="https://img.shields.io/github/stars/souravmondaldev/SMLib?style=flat-square">
+<img style="padding:10px;" src="https://img.shields.io/github/languages/count/souravmondaldev/SMLib?style=flat-square">
+<img style="padding:10px;" src="https://img.shields.io/github/license/souravmondaldev/SMLib?style=flat-square">
 
 
-This is a simple Library Book Managment System programmed using Python .This program allows you to add Book details,then you can search for a book,you are also allowed to update a enrty or delete it.
-This is a simple implementation bookstore with python using tkinter and mysql. 
+This is a simple Library Book Management System programmed using Python. This program allows you to add Book details, then you can search for a book, you are also allowed to update an entry or delete it. This is a simple implementation bookstore with python using Tkinter and MySQL.
+ 
 
 ## How to run
 
