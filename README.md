@@ -21,14 +21,10 @@ python s.py
 ```
 <img align="center" height="500" src="Screenshot from 2019-12-16 01-07-24.png" alt="BookStore"/>
 
-## Cons
-```file handling``` not added. A file system can make this block of code more reusable and complete. Any PR for ```file handling``` 
-solution is appriciated 😊.
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+Please make sure to update tests as appropriate. For any issue feel free to contact souravmondal0341@gmail.com
 
 ## Credits
 [SouravMondal](https://github.com/ask2sm)
