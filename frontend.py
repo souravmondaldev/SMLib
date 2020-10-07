@@ -16,24 +16,24 @@ def get_selected_row(event):
 
 def view_command():
     list1.delete(0,END)
-    for row in m.view():
+    for row in backend.view():
         list1.insert(END,row)
 
 def search_command():
     list1.delete(0,END)
-    for row in m.search(title_text.get(),author_text.get(),year_text.get(),isbn_text.get()):
+    for row in backend.search(title_text.get(),author_text.get(),year_text.get(),isbn_text.get()):
         list1.insert(END,row)
 
 def add_command():
-    m.insert(title_text.get(),author_text.get(),year_text.get(),isbn_text.get())
+    backend.insert(title_text.get(),author_text.get(),year_text.get(),isbn_text.get())
     list1.delete(0,END)
     list1.insert(END,(title_text.get(),author_text.get(),year_text.get(),isbn_text.get()))
 
 def delete_command():
-    m.delete(selected_tuple[0])
+    backend.delete(selected_tuple[0])
 
 def update_command():
-    m.update(selected_tuple[0],title_text.get(),author_text.get(),year_text.get(),isbn_text.get())
+    backend.update(selected_tuple[0],title_text.get(),author_text.get(),year_text.get(),isbn_text.get())
 
 window=Tk()
 
